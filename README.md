@@ -1,0 +1,4 @@
+- Hi, I’m @kcrmr1
+- I’m interested in Computer Science and Cybersecurity
+- I’m currently taking CS50
+- You can reach me at kelancramer0@gmail.com
