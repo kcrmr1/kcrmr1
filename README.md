@@ -1,4 +1,4 @@
-- Hi, I’m @kcrmr1
-- I’m interested in Computer Science and Cybersecurity
-- I’m currently taking CS50
-- You can reach me at kelancramer0@gmail.com
+- Kelan Cramer
+- Computer Science and Engineering major at The Ohio State University
+- Interest in software development and game development
+- Reachable by email at kelancramer0@gmail.com
