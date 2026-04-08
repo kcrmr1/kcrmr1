@@ -1,4 +1,4 @@
 - Kelan Cramer
-- Computer Science and Engineering major at The Ohio State University
-- Interest in software development and game development
-- Reachable by email at kelancramer0@gmail.com
+  - Computer Science and Engineering major at The Ohio State University
+  - Interest in software development and game development
+  - Reachable by email at kelancramer0@gmail.com
